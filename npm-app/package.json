@@ -1,0 +1,16 @@
+{
+  "name": "npm-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "Kenny Nguyen",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "lodash": "~4.17.3"
+  }
+}
